@@ -1,0 +1,45 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv("sales.csv")
+
+# Show basic information
+print(df.head())
+print(df.info())
+print(df.describe())
+
+# Check missing values
+print("\nMissing Values:")
+print(df.isnull().sum())
+
+# Convert dates
+df["Order Date"] = pd.to_datetime(df["Order Date"])
+
+# Sales by category
+category_sales = df.groupby("Category")["Sales"].sum()
+
+print("\nSales by Category:")
+print(category_sales)
+
+# Plot sales by category
+category_sales.plot(kind="bar")
+plt.title("Sales by Category")
+plt.xlabel("Category")
+plt.ylabel("Total Sales")
+plt.xticks(rotation=45)
+plt.show()
+
+# Sales over years
+df["Year"] = df["Order Date"].dt.year
+
+year_sales = df.groupby("Year")["Sales"].sum()
+
+print("\nSales by Year:")
+print(year_sales)
+
+year_sales.plot(kind="line", marker="o")
+plt.title("Sales Trend Over Years")
+plt.xlabel("Year")
+plt.ylabel("Sales")
+plt.show()
