@@ -1,0 +1,9 @@
+data/
+notebooks/
+dashboard/
+images/
+reports/
+README.md
+requirements.txt
+.gitignore
+LICENSE
