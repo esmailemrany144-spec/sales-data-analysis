@@ -76,6 +76,14 @@ This project transforms sales data into meaningful insights by analyzing custome
 
 Interactive Power BI dashboard for business performance analysis.
 
+Sales data analysis project using Python, Pandas and visualizations.
+
+Interactive Power BI dashboard created to analyze sales performance and provide business insights.
+
+### Dashboard Preview
+
+Screenshots will be added soon.
+
 *(Dashboard screenshots will be added soon.)*
 
 ---
