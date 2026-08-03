@@ -86,7 +86,11 @@ Screenshots will be added soon.
 
 *(Dashboard screenshots will be added soon.)*
 
----
+--
+
+## 📁 Project Structure
+sales-data-analysis/ │ ├── data/ ├── notebooks/ ├── dashboard/ ├── images/ ├── reports/ ├── README.md ├── requirements.txt └── .gitignore
+
 
 ## 🚀 Future Improvements
 
