@@ -1,5 +1,9 @@
 # 📊 Sales Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-Analysis-brightgreen)
 ## 📌 Overview
 
 This project analyzes sales data to uncover trends, evaluate business performance, and generate insights that support data-driven decision making.
