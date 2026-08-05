@@ -79,22 +79,27 @@ Interactive Power BI dashboard for business performance analysis.
 Sales data analysis project using Python, Pandas and visualizations.
 
 Interactive Power BI dashboard created to analyze sales performance and provide business insights.
+
+
+
 ## Project Screenshots
 
 ### Python Data Cleaning & Analysis
 
-![Python](images/Dataـcleaningـpython.png)
+![Python](images/python1.png)
 
-![Python](images/Dataـcleaningـpython3.png)
+![Python](images/python3.png)
 
-![Python](images/Dataـcleaningـpython4.png)
+![Python](images/python4.png)
 
 
 ### Power BI Dashboard
 
-![Power BI](images/PowerـBi.png)
+![Power BI](images/PowerBi.png)
 
-![Power BI](images/Power%20Bi2.png)
+![Power BI](images/PowerBi1.png)
+
+![Power BI](images/PowerBi2.png)
 
 --
 
