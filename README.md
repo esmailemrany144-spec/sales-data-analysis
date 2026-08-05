@@ -83,18 +83,16 @@ Interactive Power BI dashboard created to analyze sales performance and provide 
 
 ### Python Data Cleaning & Analysis
 
-![Python Cleaning](images/Data%20cleaning%20python.png)
+![Python](images/Dataـcleaningـpython.png)
 
-![Python Cleaning](images/Data%20cleaning%20python3.png)
+![Python](images/Dataـcleaningـpython3.png)
 
-![Python Cleaning](images/Data%20cleaning%20python4.png)
+![Python](images/Dataـcleaningـpython4.png)
 
 
 ### Power BI Dashboard
 
-![Power BI](images/Power%20Bi.png)
-
-![Power BI](images/Power%20Bi1.png)
+![Power BI](images/PowerـBi.png)
 
 ![Power BI](images/Power%20Bi2.png)
 
